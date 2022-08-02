@@ -53,10 +53,15 @@ Follow these steps:
 ● Create a database called ebookstore and a table called books. The table should have the following structure (note that the id field is the primary key):
 
 id, Title, Author, Qty
+
 3001, A Tale of Two Cities, Charles Dickens, 30
+
 3002, Harry Potter and the Philosopher's Stone, J.K. Rowling, 40
+
 3003, The Lion, the Witch and the Wardrobe, C. S. Lewis, 25
+
 3004, The Lord of the Rings, J.R.R Tolkien, 37
+
 3005, Alice in Wonderland, Lewis Carroll, 12
 
 ● Populate the table with the above values. You can also add your own values if you wish.
